@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9827aed-018e-4367-a9f0-d7fbb042ea87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oTsps2Xwc8MIg8YQB8fKZvDJwM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9827aed-018e-4367-a9f0-d7fbb042ea87" name="Default Changelist" comment="" />
+      <created>1613322102383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613322102383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1482" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613379802699">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1482" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741/1366.0.1366.768@1366.0.1366.768" timestamp="1613379802699" />
+    <state x="170" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1613322950922" />
+    <state x="105" y="79" width="1166" height="570" key="AVDManager" timestamp="1613396608894">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="105" y="79" width="1166" height="570" key="AVDManager/59.27.1307.741/1366.0.1366.768@1366.0.1366.768" timestamp="1613396608894" />
+    <state x="1698" y="0" width="1002" height="757" key="SettingsEditor" timestamp="1613367343105">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1698" y="0" width="1002" height="757" key="SettingsEditor/59.27.1307.741/1366.0.1366.768@1366.0.1366.768" timestamp="1613367343105" />
+    <state x="1440" y="19" width="1199" height="730" key="SettingsEditor/59.27.2673.741@59.27.2673.741" timestamp="1613365473326" />
+  </component>
+</project>
